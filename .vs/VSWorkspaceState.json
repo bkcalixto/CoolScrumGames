@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\CoolScrumGames",
+    "\\CoolScrumGames\\Pages"
   ],
-  "SelectedNode": "\\CoolScrumGames.sln",
+  "SelectedNode": "\\CoolScrumGames\\Pages\\Index.cshtml.cs",
   "PreviewInSolutionExplorer": false
 }
