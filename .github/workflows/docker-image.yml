@@ -18,8 +18,8 @@ jobs:
       - name: Log in to Docker Hub
         uses: docker/login-action@f4ef78c080cd8ba55a85445d5b36e214a81df20a
         with:
-          username: ${{ secrets.cool_scrum_games_username }}
-          password: ${{ secrets.cool_scrum_games_password }}
+          username: ${{ secrets.COOL_SCRUM_GAMES_USERNAME }}
+          password: ${{ secrets.COOL_SCRUM_GAMES_PASSWORD }}
       
       - name: Extract metadata (tags, labels) for Docker
         id: meta
