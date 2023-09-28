@@ -1,17 +1,14 @@
 ﻿.main-container {
     display: inline-flex;
     width: 100%;
-    text-align: center;
-    align-content: center;
 }
 
-    .main-container div {
-        height: 350px;
-        padding: 50px;
-        margin: 0 auto;
-        align-content: center;
-    }
-
+div game-container {
+    height: 300px;
+    padding: 50px;
+    margin: 0 auto;
+    align-content: center;
+}
 div h3 {
     font-size: 30px;
     background-color: #041E41;

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "YQ4+4yrbgtpuPb20sPVdonp2pJ9mgNFVs4bhR490Hzk=",
+  "Hash": "f9fWEnOiM8PgTlsUxjLR9do5vwru+w4vGkj5miBqeQk=",
   "Source": "CoolScrumGames",
   "BasePath": "_content/CoolScrumGames",
   "Mode": "Default",
@@ -882,6 +882,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
+    },
+    {
+      "Identity": "C:\\Users\\School\\Source\\Repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\lib\\BucStopLogo.png",
+      "SourceId": "CoolScrumGames",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\School\\Source\\Repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\",
+      "BasePath": "_content/CoolScrumGames",
+      "RelativePath": "lib/BucStopLogo.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\BucStopLogo.png"
     },
     {
       "Identity": "C:\\Users\\School\\Source\\Repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\lib\\HelloKitty.png",
