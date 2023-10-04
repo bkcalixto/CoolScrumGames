@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< Updated upstream
   "dgSpecHash": "6VHq35O9BY3S/nFurFEoKJXRreFGg/wbjjUoqpf6cOsN+aKC/irxFsYnHeWXp0upenZIpox2DJ41MN0z0EHDGA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Jake\\Documents\\CoolScrumGames\\CoolScrumGames\\CoolScrumGames.csproj",
+=======
+  "dgSpecHash": "ORWjqnT+dAxJgASghGdGXpmKe+J0hcbmscYbmKkG8pmOOs0Lwah2iDExA5iNxtloNJgfeegED8ofdjQh99rPag==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jake\\source\\repos\\CoolScrumGames\\CoolScrumGames\\CoolScrumGames.csproj",
+>>>>>>> Stashed changes
   "expectedPackageFiles": [
     "C:\\Users\\Jake\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.2\\microsoft.visualstudio.azure.containers.tools.targets.1.17.2.nupkg.sha512"
   ],
