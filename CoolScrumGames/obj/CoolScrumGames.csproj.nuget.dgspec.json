@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< Updated upstream
     "C:\\Users\\Jake\\Documents\\CoolScrumGames\\CoolScrumGames\\CoolScrumGames.csproj": {}
   },
   "projects": {
@@ -12,6 +13,19 @@
         "projectPath": "C:\\Users\\Jake\\Documents\\CoolScrumGames\\CoolScrumGames\\CoolScrumGames.csproj",
         "packagesPath": "C:\\Users\\Jake\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Jake\\Documents\\CoolScrumGames\\CoolScrumGames\\obj\\",
+=======
+    "C:\\Users\\Jake\\source\\repos\\CoolScrumGames\\CoolScrumGames\\CoolScrumGames.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Jake\\source\\repos\\CoolScrumGames\\CoolScrumGames\\CoolScrumGames.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Jake\\source\\repos\\CoolScrumGames\\CoolScrumGames\\CoolScrumGames.csproj",
+        "projectName": "CoolScrumGames",
+        "projectPath": "C:\\Users\\Jake\\source\\repos\\CoolScrumGames\\CoolScrumGames\\CoolScrumGames.csproj",
+        "packagesPath": "C:\\Users\\Jake\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jake\\source\\repos\\CoolScrumGames\\CoolScrumGames\\obj\\",
+>>>>>>> Stashed changes
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jake\\AppData\\Roaming\\NuGet\\NuGet.Config",

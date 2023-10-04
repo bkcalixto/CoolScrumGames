@@ -1,0 +1,15 @@
+
+*.vsidx
+*.cache
+CoolScrumGames/obj/CoolScrumGames.csproj.nuget.dgspec.json
+*.editorconfig
+CoolScrumGames/obj/Debug/net6.0/project.razor.vs.json
+CoolScrumGames/obj/project.assets.json
+*.editorconfig
+CoolScrumGames/obj/Debug/net6.0/project.razor.vs.json
+CoolScrumGames/obj/project.assets.json
+CoolScrumGames/obj/CoolScrumGames.csproj.nuget.dgspec.json
+CoolScrumGames/obj/CoolScrumGames.csproj.nuget.dgspec.json
+CoolScrumGames/obj/Debug/net6.0/project.razor.vs.json
+CoolScrumGames/obj/project.assets.json
+CoolScrumGames/obj/project.nuget.cache
