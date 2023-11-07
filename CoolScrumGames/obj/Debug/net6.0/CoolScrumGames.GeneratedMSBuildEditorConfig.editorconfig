@@ -5,65 +5,64 @@ build_property.UsingMicrosoftNETSdkWeb = true
 build_property.ProjectTypeGuids = 
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
-build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CoolScrumGames
 build_property.RootNamespace = CoolScrumGames
-build_property.ProjectDir = C:\Users\bkcal\source\repos\CoolScrumGames\CoolScrumGames\
+build_property.ProjectDir = C:\Users\School\source\repos\fraserj12000\CoolScrumGames\CoolScrumGames\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\bkcal\source\repos\CoolScrumGames\CoolScrumGames
+build_property.MSBuildProjectDirectory = C:\Users\School\source\repos\fraserj12000\CoolScrumGames\CoolScrumGames
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/bkcal/source/repos/CoolScrumGames/CoolScrumGames/Pages/AboutUs.cshtml]
+[C:/Users/School/source/repos/fraserj12000/CoolScrumGames/CoolScrumGames/Pages/AboutUs.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWJvdXRVcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/bkcal/source/repos/CoolScrumGames/CoolScrumGames/Pages/Desktop.cshtml]
+[C:/Users/School/source/repos/fraserj12000/CoolScrumGames/CoolScrumGames/Pages/Desktop.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGVza3RvcC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/bkcal/source/repos/CoolScrumGames/CoolScrumGames/Pages/Error.cshtml]
+[C:/Users/School/source/repos/fraserj12000/CoolScrumGames/CoolScrumGames/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/bkcal/source/repos/CoolScrumGames/CoolScrumGames/Pages/Games/AsteroidGame.cshtml]
+[C:/Users/School/source/repos/fraserj12000/CoolScrumGames/CoolScrumGames/Pages/Games/AsteroidGame.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR2FtZXNcQXN0ZXJvaWRHYW1lLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/bkcal/source/repos/CoolScrumGames/CoolScrumGames/Pages/Games/GamePageTemplate.cshtml]
+[C:/Users/School/source/repos/fraserj12000/CoolScrumGames/CoolScrumGames/Pages/Games/GamePageTemplate.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR2FtZXNcR2FtZVBhZ2VUZW1wbGF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/bkcal/source/repos/CoolScrumGames/CoolScrumGames/Pages/Games/SnakeGame.cshtml]
+[C:/Users/School/source/repos/fraserj12000/CoolScrumGames/CoolScrumGames/Pages/Games/SnakeGame.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR2FtZXNcU25ha2VHYW1lLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/bkcal/source/repos/CoolScrumGames/CoolScrumGames/Pages/Index.cshtml]
+[C:/Users/School/source/repos/fraserj12000/CoolScrumGames/CoolScrumGames/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/bkcal/source/repos/CoolScrumGames/CoolScrumGames/Pages/Mobile.cshtml]
+[C:/Users/School/source/repos/fraserj12000/CoolScrumGames/CoolScrumGames/Pages/Mobile.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW9iaWxlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/bkcal/source/repos/CoolScrumGames/CoolScrumGames/Pages/Privacy.cshtml]
+[C:/Users/School/source/repos/fraserj12000/CoolScrumGames/CoolScrumGames/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/bkcal/source/repos/CoolScrumGames/CoolScrumGames/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/School/source/repos/fraserj12000/CoolScrumGames/CoolScrumGames/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/bkcal/source/repos/CoolScrumGames/CoolScrumGames/Pages/_ViewImports.cshtml]
+[C:/Users/School/source/repos/fraserj12000/CoolScrumGames/CoolScrumGames/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/bkcal/source/repos/CoolScrumGames/CoolScrumGames/Pages/_ViewStart.cshtml]
+[C:/Users/School/source/repos/fraserj12000/CoolScrumGames/CoolScrumGames/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/bkcal/source/repos/CoolScrumGames/CoolScrumGames/Pages/Shared/_Layout.cshtml]
+[C:/Users/School/source/repos/fraserj12000/CoolScrumGames/CoolScrumGames/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-g16y95u4me
