@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "FDjPVMUngBevS8ayrSH1xK9EzR1Mqgb3oErkhjFdvy0=",
+  "Hash": "AmcGBr7HVFS+XJq4hbrg3SRZ87hJMtxZmHgeLI/Mk0M=",
   "Source": "CoolScrumGames",
   "BasePath": "_content/CoolScrumGames",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "CoolScrumGames\\wwwroot",
       "Source": "CoolScrumGames",
-      "ContentRoot": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\",
       "BasePath": "_content/CoolScrumGames",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\obj\\Debug\\net6.0\\scopedcss\\bundle\\CoolScrumGames.styles.css",
+      "Identity": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\obj\\Debug\\net6.0\\scopedcss\\bundle\\CoolScrumGames.styles.css",
       "SourceId": "CoolScrumGames",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/CoolScrumGames",
       "RelativePath": "CoolScrumGames.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\obj\\Debug\\net6.0\\scopedcss\\bundle\\CoolScrumGames.styles.css"
+      "OriginalItemSpec": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\obj\\Debug\\net6.0\\scopedcss\\bundle\\CoolScrumGames.styles.css"
     },
     {
-      "Identity": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\CoolScrumGames.bundle.scp.css",
+      "Identity": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\CoolScrumGames.bundle.scp.css",
       "SourceId": "CoolScrumGames",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/CoolScrumGames",
       "RelativePath": "CoolScrumGames.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\CoolScrumGames.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\CoolScrumGames.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\css\\MainPageStyleSheet.css",
+      "Identity": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\css\\MainPageStyleSheet.css",
       "SourceId": "CoolScrumGames",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\",
       "BasePath": "_content/CoolScrumGames",
       "RelativePath": "css/MainPageStyleSheet.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\MainPageStyleSheet.css"
     },
     {
-      "Identity": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\css\\site.css",
       "SourceId": "CoolScrumGames",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\",
       "BasePath": "_content/CoolScrumGames",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\favicon.ico",
       "SourceId": "CoolScrumGames",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\",
       "BasePath": "_content/CoolScrumGames",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -102,12 +102,12 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\images\\bucstop.png",
+      "Identity": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\images\\bucstopwologo.png",
       "SourceId": "CoolScrumGames",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\",
       "BasePath": "_content/CoolScrumGames",
-      "RelativePath": "images/bucstop.png",
+      "RelativePath": "images/bucstopwologo.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -116,13 +116,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\bucstop.png"
+      "OriginalItemSpec": "wwwroot\\images\\bucstopwologo.png"
     },
     {
-      "Identity": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\images\\diamond.png",
+      "Identity": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\images\\diamond.png",
       "SourceId": "CoolScrumGames",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\",
       "BasePath": "_content/CoolScrumGames",
       "RelativePath": "images/diamond.png",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\images\\diamond.png"
     },
     {
-      "Identity": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\images\\etsu_gold.png",
+      "Identity": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\images\\etsu_gold.png",
       "SourceId": "CoolScrumGames",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\",
       "BasePath": "_content/CoolScrumGames",
       "RelativePath": "images/etsu_gold.png",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\images\\etsu_gold.png"
     },
     {
-      "Identity": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\images\\game_images\\AsteroidGame\\asteroid.jpg",
+      "Identity": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\images\\game_images\\AsteroidGame\\asteroid.jpg",
       "SourceId": "CoolScrumGames",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\",
       "BasePath": "_content/CoolScrumGames",
       "RelativePath": "images/game_images/AsteroidGame/asteroid.jpg",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\images\\game_images\\AsteroidGame\\asteroid.jpg"
     },
     {
-      "Identity": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\images\\game_images\\AsteroidGame\\spaceship.png",
+      "Identity": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\images\\game_images\\AsteroidGame\\spaceship.png",
       "SourceId": "CoolScrumGames",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\",
       "BasePath": "_content/CoolScrumGames",
       "RelativePath": "images/game_images/AsteroidGame/spaceship.png",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\images\\game_images\\AsteroidGame\\spaceship.png"
     },
     {
-      "Identity": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\js\\AsteroidGame\\Presentation.js",
+      "Identity": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\js\\AsteroidGame\\Presentation.js",
       "SourceId": "CoolScrumGames",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\",
       "BasePath": "_content/CoolScrumGames",
       "RelativePath": "js/AsteroidGame/Presentation.js",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\js\\AsteroidGame\\Presentation.js"
     },
     {
-      "Identity": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\js\\site.js",
       "SourceId": "CoolScrumGames",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\",
       "BasePath": "_content/CoolScrumGames",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\js\\SnakeGame\\Snake.js",
+      "Identity": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\js\\SnakeGame\\Snake.js",
       "SourceId": "CoolScrumGames",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\",
       "BasePath": "_content/CoolScrumGames",
       "RelativePath": "js/SnakeGame/Snake.js",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\js\\SnakeGame\\Snake.js"
     },
     {
-      "Identity": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "CoolScrumGames",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\",
       "BasePath": "_content/CoolScrumGames",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "CoolScrumGames",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\",
       "BasePath": "_content/CoolScrumGames",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "CoolScrumGames",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\",
       "BasePath": "_content/CoolScrumGames",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "CoolScrumGames",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\",
       "BasePath": "_content/CoolScrumGames",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "CoolScrumGames",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\",
       "BasePath": "_content/CoolScrumGames",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "CoolScrumGames",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\",
       "BasePath": "_content/CoolScrumGames",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "CoolScrumGames",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\",
       "BasePath": "_content/CoolScrumGames",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "CoolScrumGames",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\",
       "BasePath": "_content/CoolScrumGames",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "CoolScrumGames",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\",
       "BasePath": "_content/CoolScrumGames",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "CoolScrumGames",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\",
       "BasePath": "_content/CoolScrumGames",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "CoolScrumGames",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\",
       "BasePath": "_content/CoolScrumGames",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "CoolScrumGames",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\",
       "BasePath": "_content/CoolScrumGames",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "CoolScrumGames",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\",
       "BasePath": "_content/CoolScrumGames",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "CoolScrumGames",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\",
       "BasePath": "_content/CoolScrumGames",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "CoolScrumGames",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\",
       "BasePath": "_content/CoolScrumGames",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "CoolScrumGames",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\",
       "BasePath": "_content/CoolScrumGames",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "CoolScrumGames",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\",
       "BasePath": "_content/CoolScrumGames",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "CoolScrumGames",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\",
       "BasePath": "_content/CoolScrumGames",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "CoolScrumGames",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\",
       "BasePath": "_content/CoolScrumGames",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "CoolScrumGames",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\",
       "BasePath": "_content/CoolScrumGames",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "CoolScrumGames",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\",
       "BasePath": "_content/CoolScrumGames",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -595,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "CoolScrumGames",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\",
       "BasePath": "_content/CoolScrumGames",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -612,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "CoolScrumGames",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\",
       "BasePath": "_content/CoolScrumGames",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -629,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "CoolScrumGames",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\",
       "BasePath": "_content/CoolScrumGames",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -646,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "CoolScrumGames",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\",
       "BasePath": "_content/CoolScrumGames",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "CoolScrumGames",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\",
       "BasePath": "_content/CoolScrumGames",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -680,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "CoolScrumGames",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\",
       "BasePath": "_content/CoolScrumGames",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -697,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "CoolScrumGames",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\",
       "BasePath": "_content/CoolScrumGames",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -714,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "CoolScrumGames",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\",
       "BasePath": "_content/CoolScrumGames",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "CoolScrumGames",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\",
       "BasePath": "_content/CoolScrumGames",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -748,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "CoolScrumGames",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\",
       "BasePath": "_content/CoolScrumGames",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -765,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "CoolScrumGames",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\",
       "BasePath": "_content/CoolScrumGames",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -782,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "CoolScrumGames",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\",
       "BasePath": "_content/CoolScrumGames",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -799,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "CoolScrumGames",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\",
       "BasePath": "_content/CoolScrumGames",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -816,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "CoolScrumGames",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\",
       "BasePath": "_content/CoolScrumGames",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -833,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "CoolScrumGames",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\",
       "BasePath": "_content/CoolScrumGames",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -850,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "CoolScrumGames",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\",
       "BasePath": "_content/CoolScrumGames",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -867,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "CoolScrumGames",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\",
       "BasePath": "_content/CoolScrumGames",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -884,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "CoolScrumGames",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\",
       "BasePath": "_content/CoolScrumGames",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -901,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "CoolScrumGames",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\",
       "BasePath": "_content/CoolScrumGames",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -918,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "CoolScrumGames",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\",
       "BasePath": "_content/CoolScrumGames",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -935,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "CoolScrumGames",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\",
       "BasePath": "_content/CoolScrumGames",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -952,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "CoolScrumGames",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\",
       "BasePath": "_content/CoolScrumGames",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -969,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "CoolScrumGames",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\",
       "BasePath": "_content/CoolScrumGames",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "CoolScrumGames",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\",
       "BasePath": "_content/CoolScrumGames",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1003,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\lib\\BucStopLogo.png",
+      "Identity": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\lib\\BucStopLogo.png",
       "SourceId": "CoolScrumGames",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\",
       "BasePath": "_content/CoolScrumGames",
       "RelativePath": "lib/BucStopLogo.png",
       "AssetKind": "All",
@@ -1020,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\BucStopLogo.png"
     },
     {
-      "Identity": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\lib\\HelloKitty.png",
+      "Identity": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\lib\\HelloKitty.png",
       "SourceId": "CoolScrumGames",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\",
       "BasePath": "_content/CoolScrumGames",
       "RelativePath": "lib/HelloKitty.png",
       "AssetKind": "All",
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\HelloKitty.png"
     },
     {
-      "Identity": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "CoolScrumGames",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\",
       "BasePath": "_content/CoolScrumGames",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1054,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "CoolScrumGames",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\",
       "BasePath": "_content/CoolScrumGames",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1071,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "CoolScrumGames",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\",
       "BasePath": "_content/CoolScrumGames",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "CoolScrumGames",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\",
       "BasePath": "_content/CoolScrumGames",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "CoolScrumGames",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\",
       "BasePath": "_content/CoolScrumGames",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1122,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "CoolScrumGames",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\",
       "BasePath": "_content/CoolScrumGames",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1139,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "CoolScrumGames",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\",
       "BasePath": "_content/CoolScrumGames",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1156,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "CoolScrumGames",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\",
       "BasePath": "_content/CoolScrumGames",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1173,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "CoolScrumGames",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\",
       "BasePath": "_content/CoolScrumGames",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1190,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "CoolScrumGames",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\",
       "BasePath": "_content/CoolScrumGames",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1207,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "CoolScrumGames",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\",
       "BasePath": "_content/CoolScrumGames",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1224,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "CoolScrumGames",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\",
       "BasePath": "_content/CoolScrumGames",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -1241,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\lib\\Rocket.jpg",
+      "Identity": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\lib\\Rocket.jpg",
       "SourceId": "CoolScrumGames",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\",
       "BasePath": "_content/CoolScrumGames",
       "RelativePath": "lib/Rocket.jpg",
       "AssetKind": "All",
@@ -1258,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Rocket.jpg"
     },
     {
-      "Identity": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\lib\\snake.jpg",
+      "Identity": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\lib\\snake.jpg",
       "SourceId": "CoolScrumGames",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\wwwroot\\",
       "BasePath": "_content/CoolScrumGames",
       "RelativePath": "lib/snake.jpg",
       "AssetKind": "All",

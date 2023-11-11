@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\TextMicroservice\\TextMicroservice.csproj": {}
+    "C:\\Users\\School\\source\\repos\\TestText\\TestText\\TextMicroservice.csproj": {}
   },
   "projects": {
-    "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\TextMicroservice\\TextMicroservice.csproj": {
+    "C:\\Users\\School\\source\\repos\\TestText\\TestText\\TextMicroservice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\TextMicroservice\\TextMicroservice.csproj",
+        "projectUniqueName": "C:\\Users\\School\\source\\repos\\TestText\\TestText\\TextMicroservice.csproj",
         "projectName": "TextMicroservice",
-        "projectPath": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\TextMicroservice\\TextMicroservice.csproj",
+        "projectPath": "C:\\Users\\School\\source\\repos\\TestText\\TestText\\TextMicroservice.csproj",
         "packagesPath": "C:\\Users\\School\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\TextMicroservice\\obj\\",
+        "outputPath": "C:\\Users\\School\\source\\repos\\TestText\\TestText\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\School\\AppData\\Roaming\\NuGet\\NuGet.Config",

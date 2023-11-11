@@ -3,27 +3,23 @@
 @{
 }
 
-
-
-
 <body style="background-color: #ffc72c;">
    <!-- <div class="main-container">
         <p> Hello :) How is it going?</p>
     </div> -->
-    <div id="main-container"></div>
+    <div id="main-container" class="main-container"></div>
 
     <script>
 
         const xhttp = new XMLHttpRequest(); //Creates an object that will hold the HTML request.
 
-        xhttp.open("GET", "https://localhost:7042/AboutUs"); // THis is what retrieves the data from the API.
+        xhttp.open("GET", "http://3.216.98.181:7041/AboutUs"); // THis is what retrieves the data from the API.
         xhttp.send(); 
         xhttp.onload = function() { //function that takes the data that was retrieved, takes the value from the key (it's in JSON format), and sets the text to the page.
           const response = this.responseText;
           const data = JSON.parse(response);
           document.getElementById("main-container").textContent = data.text;
         }
-
         
 
     </script>

@@ -100,19 +100,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\School\\.nuget\\packages\\": {}
+    "C:\\Users\\Jake\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\CoolScrumGames.csproj",
+      "projectUniqueName": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\CoolScrumGames.csproj",
       "projectName": "CoolScrumGames",
-      "projectPath": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\CoolScrumGames.csproj",
-      "packagesPath": "C:\\Users\\School\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\School\\source\\repos\\fraserj12000\\CoolScrumGames\\CoolScrumGames\\obj\\",
+      "projectPath": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\CoolScrumGames.csproj",
+      "packagesPath": "C:\\Users\\Jake\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Jake\\Documents\\GitHub\\CoolScrumGames_Jake\\CoolScrumGames\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\School\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Jake\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -149,7 +149,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -161,7 +162,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }
