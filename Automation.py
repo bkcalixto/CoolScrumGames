@@ -23,7 +23,7 @@ class Test(unittest.TestCase):
         
         self.driver = webdriver.Chrome(options=self.chrome_options)
         
-        self.driver.get("http://127.0.0.1:32825")
+        self.driver.get("http://localhost:32825")
         
         self.driver.implicitly_wait(0.5)
 
@@ -68,7 +68,7 @@ class Test(unittest.TestCase):
 
     def test_checklogin(self):
         self.logins = ["egglestonj@etsu", "egglestonj", "egglestonj@", "egglestonj@gmail.com", "egglestonj@outlook.com", "egglestonj-@outlook.com"]
-        self.driver.get("http://127.0.0.1:32825/account/login")
+        self.driver.get("http://localhost:32825/account/login")
         self.driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
         time.sleep(2)
         self.h4 = self.driver.find_element(By.XPATH, '/html/body/div/main/div[3]/div/section/form/h4')
