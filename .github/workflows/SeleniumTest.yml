@@ -47,9 +47,9 @@ jobs:
         with:
            python-version: '3.9'
       - name: Update install packages
-        run: apt-get update
+        run: sudo apt-get update
       - name: Install browser
-        run: apt-get install -y chromium-browser
+        run: sudo apt-get install -y chromium-browser
       - name: Install selenium
         run: pip install webdriver-manager selenium
       - name: Run the test script
