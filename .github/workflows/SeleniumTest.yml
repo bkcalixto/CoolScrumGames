@@ -51,7 +51,9 @@ jobs:
            python-version: '3.10'
       - name: Install browser
         run: apt-get install -y chromium-browser
+      - name: Install pip
+        run: apt install -y python3-pip;
       - name: Install selenium
-        run: apt install -y python3-pip; pip install webdriver-manager selenium
+        run: pip install webdriver-manager selenium
       - name: Run the test script
         run: python Automation.py
