@@ -12,6 +12,10 @@ class Test(unittest.TestCase):
         self.options = [
             "--no-sandbox",
             "--headless",
+            "--disable-gpu",
+            "--window-size=1920,1200",
+            "--ignore-certificate-errors",
+            "--disable-extensions",
             "--remote-debugging-pipe",
             "--disable-dev-shm-usage"
         ]
