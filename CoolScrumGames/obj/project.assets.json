@@ -100,19 +100,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\megan\\.nuget\\packages\\": {}
+    "C:\\Users\\mo_ol\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\megan\\source\\repos\\tothmn\\CoolScrumGames\\CoolScrumGames\\CoolScrumGames\\CoolScrumGames.csproj",
+      "projectUniqueName": "C:\\Users\\mo_ol\\OneDrive\\Desktop\\Documents\\GitHub\\CoolScrumGames\\CoolScrumGames\\CoolScrumGames.csproj",
       "projectName": "CoolScrumGames",
-      "projectPath": "C:\\Users\\megan\\source\\repos\\tothmn\\CoolScrumGames\\CoolScrumGames\\CoolScrumGames\\CoolScrumGames.csproj",
-      "packagesPath": "C:\\Users\\megan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\megan\\source\\repos\\tothmn\\CoolScrumGames\\CoolScrumGames\\CoolScrumGames\\obj\\",
+      "projectPath": "C:\\Users\\mo_ol\\OneDrive\\Desktop\\Documents\\GitHub\\CoolScrumGames\\CoolScrumGames\\CoolScrumGames.csproj",
+      "packagesPath": "C:\\Users\\mo_ol\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\mo_ol\\OneDrive\\Desktop\\Documents\\GitHub\\CoolScrumGames\\CoolScrumGames\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\megan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\mo_ol\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -162,7 +162,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }
