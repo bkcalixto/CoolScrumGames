@@ -11,12 +11,7 @@ class Test(unittest.TestCase):
         self.chrome_options = Options()
         self.options = [
             "--headless",
-            "--disable-gpu",
-            "--window-size=1920,1200",
-            "--ignore-certificate-errors",
-            "--disable-extensions",
-            "--no-sandbox",
-            "--disable-dev-shm-usage"
+            "--remote-debugging-pipe"
         ]
         for self.option in self.options:
           self.chrome_options.add_argument(self.option)
