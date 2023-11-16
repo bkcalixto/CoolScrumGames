@@ -30,7 +30,9 @@ jobs:
           labels: ${{ steps.meta.outputs.labels }}
 
   build:
+    needs: [ push_to_registry ]
     runs-on: ubuntu-latest
+    container: ubuntu
     services:
       project:
         image: coolscrumgames/coolscrumgames:test
