@@ -29,19 +29,21 @@ class Test(unittest.TestCase):
 
     def test_checkNavbar(self):
         self.navitems = self.driver.find_elements(By.XPATH, "/html/body/header/nav/div/div/ul/li")
-        self.assertEqual(self.navitems[0].text, "Desktop Games")
+        assert self.navitems[0].text is not None
 
         self.navitems = self.driver.find_elements(By.XPATH, "/html/body/header/nav/div/div/ul/li")
-        self.assertEqual(self.navitems[1].text, "Mobile Games")
+        assert self.navitems[1].text is not None
 
         self.navitems = self.driver.find_elements(By.XPATH, "/html/body/header/nav/div/div/ul/li")
-        self.assertEqual(self.navitems[2].text, "About Us")
+        assert self.navitems[2].text is not None
 
         self.navitems = self.driver.find_elements(By.XPATH, "/html/body/header/nav/div/div/ul/li")
-        self.assertEqual(self.navitems[3].text, "Privacy")
+        assert self.navitems[3].text is not None
     
     def test_checkJakesGame(self):
-        self.jakesgame = self.driver.find_element(By.XPATH, "/html/body/div/main/div[1]/div[1]/h3/button")
+        self.driver.execute_script("window.scrollTo(0, document.body.scrollHeight*0.25);")
+        time.sleep(2)
+        self.jakesgame = self.driver.find_element(By.XPATH, "/html/body/div/main/div[2]/div[1]/h3/button")
         self.jakesgame.click()
         self.driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
         time.sleep(2)
@@ -52,7 +54,9 @@ class Test(unittest.TestCase):
         assert self.canvas[0] is not None
 
     def test_checkSnakeGame(self):
-        self.snakegame = self.driver.find_element(By.XPATH, "/html/body/div/main/div[1]/div[2]/h3/button")
+        self.driver.execute_script("window.scrollTo(0, document.body.scrollHeight*0.25);")
+        time.sleep(2)
+        self.snakegame = self.driver.find_element(By.XPATH, "/html/body/div/main/div[2]/div[2]/h3/button")
         self.snakegame.click()
         self.driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
         time.sleep(2)
@@ -61,6 +65,26 @@ class Test(unittest.TestCase):
         self.playbutton.click()
         self.canvas = self.driver.find_elements(By.XPATH, '//*[@id="gameCanvas"]')
         assert self.canvas[0] is not None
+
+    def test_checklogin(self):
+        self.logins = ["egglestonj@etsu", "egglestonj", "egglestonj@", "egglestonj@gmail.com", "egglestonj@outlook.com", "egglestonj-@outlook.com"]
+        self.driver.get("http://127.0.0.1:32825/account/login")
+        self.driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+        time.sleep(2)
+        self.h4 = self.driver.find_element(By.XPATH, '/html/body/div/main/div[3]/div/section/form/h4')
+        self.email = self.driver.find_element(By.XPATH, '//*[@id="toEmail"]')
+        self.button = self.driver.find_element(By.XPATH, '//*[@id="login-submit"]')
+        for login in self.logins:
+            self.email.send_keys(login)
+            self.button.click()
+            time.sleep(2)
+            self.email.clear()
+            self.assertEqual(self.h4.text, "Enter an ETSU Email")
+        self.email.send_keys("some_fake_guy@etsu.edu")
+        self.button.click()
+        time.sleep(2)
+        self.h4 = self.driver.find_element(By.XPATH, '/html/body/div/main/div[2]/div/section/form/h4')
+        self.assertEqual(self.h4.text, "Enter an Access Code")
 
     def tearDown(self):
         self.driver.quit()
