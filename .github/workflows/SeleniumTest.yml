@@ -32,7 +32,7 @@ jobs:
   build:
     needs: [ push_to_registry ]
     runs-on: ubuntu-latest
-    container: ubuntu-latest
+    container: ubuntu:latest
     services:
       project:
         image: coolscrumgames/coolscrumgames:test
