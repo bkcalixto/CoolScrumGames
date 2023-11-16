@@ -31,7 +31,6 @@ jobs:
 
   build:
     runs-on: ubuntu-latest
-    needs: [ push_to_registry ]
     services:
       project:
         image: coolscrumgames/coolscrumgames:test
