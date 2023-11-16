@@ -42,7 +42,7 @@ jobs:
     steps:
         #Setup Selenium 
       - name: Update install packages
-        run: apt-get update
+        run: apt-get update;
       - name: Check out this repo
         uses: actions/checkout@v4   
       - name: Set up Python
@@ -52,6 +52,6 @@ jobs:
       - name: Install browser
         run: apt-get install -y chromium-browser
       - name: Install selenium
-        run: add-apt-repository universe; apt install python3-pip; pip install webdriver-manager selenium
+        run: apt install python3-pip; pip install webdriver-manager selenium
       - name: Run the test script
         run: python Automation.py
