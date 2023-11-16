@@ -52,6 +52,6 @@ jobs:
       - name: Install browser
         run: apt-get install -y chromium-browser
       - name: Install selenium
-        run: pip install webdriver-manager selenium
+        run: add-apt-repository universe; apt install python3-pip; pip install webdriver-manager selenium
       - name: Run the test script
         run: python Automation.py
