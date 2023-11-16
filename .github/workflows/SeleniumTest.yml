@@ -54,6 +54,6 @@ jobs:
       - name: Install pip
         run: apt install -y python3-pip;
       - name: Install selenium
-        run: pip install webdriver-manager selenium
+        run: pip install selenium
       - name: Run the test script
         run: python Automation.py
