@@ -10,8 +10,10 @@ class Test(unittest.TestCase):
     def setUp(self):
         self.chrome_options = Options()
         self.options = [
+            "--no-sandbox",
             "--headless",
-            "--remote-debugging-pipe"
+            "--remote-debugging-pipe",
+            "--disable-dev-shm-usage"
         ]
         for self.option in self.options:
           self.chrome_options.add_argument(self.option)
