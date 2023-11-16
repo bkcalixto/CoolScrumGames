@@ -37,7 +37,7 @@ jobs:
         image: coolscrumgames/coolscrumgames:test
         ports:
         # <port on host>:<port on container>
-        - 80:32825
+        - 32825:80
     steps:
         #Setup Selenium 
       - name: Check out this repo
